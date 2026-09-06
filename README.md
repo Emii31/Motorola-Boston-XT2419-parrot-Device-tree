@@ -1,4 +1,4 @@
-# Motorola Boston (XT2419, "parrot") Bring-up — Phase 6 Final Report
+# Motorola Boston (XT2419, "parrot")
 
 Status: **compiles / repacks — NOT hardware-verified.** All statements below report
 "compiles" or "does not compile", never "working/final". No physical hardware was used.
